@@ -36,7 +36,7 @@ I'm a **Results-driven Systems Administrator** with **5+ years** of hands-on exp
 ### 🖥️ Virtualization & Infrastructure
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![VxRail](https://img.shields.io/badge/VxRail-0071C5?style=for-the-badge&logo=dell&logoColor=white)
-![PowerFlex](https://img.shields.io/badge/PowerFlex-0071C5?style=for-the-badge&logo=dell&logoColor=white)
+
 
 ### 🐧 Linux & Unix
 ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)

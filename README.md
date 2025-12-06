@@ -72,23 +72,6 @@ I'm a **Results-driven Systems Administrator** with **5+ years** of hands-on exp
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulvishwaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulvishwaa&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulvishwaa&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahulvishwaa&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
-</p>
-
----
-
 ## 💼 Professional Experience
 
 ### 🔷 Unix Engineer @ Amdocs DVCI
@@ -107,14 +90,18 @@ Led datacenter migrations and managed hyper-converged infrastructure for enterpr
 
 ```yaml
 current_role: Unix Engineer at Amdocs DVCI
-focus_areas:
+Current_Working_areas:
+  - Linux Administration
+  - Linux Automation Anisble
+  - On-Prem Infra managemnet VMware
+Future_areas
   - Container Orchestration (Kubernetes, OpenShift)
   - Infrastructure as Code (Terraform)
   - Cloud-Native Technologies
   - Automation & CI/CD Pipelines
 location: Pune, India
 servers_managed: 5000+
-coffee_consumed: Too much ☕
+coffee_consumed: not much i'm a chai lover ☕
 ```
 
 ---

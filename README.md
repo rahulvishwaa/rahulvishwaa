@@ -66,7 +66,8 @@ I'm a **Results-driven Systems Administrator** with **6+ years** of hands-on exp
 
 <p align="left">
   <img src="https://img.shields.io/badge/RHCSA-Red_Hat_Certified-EE0000?style=for-the-badge&logo=red-hat&logoColor=white" alt="RHCSA"/>
-  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/RHCE-Red_Hat_Certified-EE0000?style=for-the-badge&logo=red-hat&logoColor=white" alt="RHCE"/>
+    <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Azure-AZ--104-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
 </p>
 

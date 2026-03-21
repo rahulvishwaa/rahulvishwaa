@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a **Results-driven Systems Administrator** with **5+ years** of hands-on experience managing enterprise-scale infrastructure. Currently working at **Amdocs DVCI**, I specialize in:
+I'm a **Results-driven Systems Administrator** with **6+ years** of hands-on experience managing enterprise-scale infrastructure. Currently working at **Amdocs DVCI**, I specialize in:
 
 - 🏗️ Managing **5,000+ Linux RHEL servers** across production, test, and development environments
 - ☁️ Architecting and maintaining **VMware vSphere infrastructure** with 99.9% uptime

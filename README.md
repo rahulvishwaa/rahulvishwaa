@@ -1,7 +1,7 @@
 # Hi there, I'm Rahul Vishwakarma 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=VMware+%26+Linux+Systems+Administrator;DevOps+%26+Cloud+Infrastructure+Engineer;5%2B+Years+of+Enterprise+Experience;Automation+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=VMware+%26+Linux+Systems+Administrator;DevOps+%26+Cloud+Infrastructure+Engineer;6%2B+Years+of+Enterprise+Experience;Automation+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
